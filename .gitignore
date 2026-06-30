@@ -1,1 +1,6 @@
-".env" 
+.env
+huzzi/
+__pycache__/
+*.pyc
+.DS_Store
+abuseipdb-api.txt
