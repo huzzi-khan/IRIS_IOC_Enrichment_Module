@@ -1,0 +1,15 @@
+# Virtual environment
+huzzi/
+
+# Secrets and API keys
+.env
+abuseipdb-api.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
